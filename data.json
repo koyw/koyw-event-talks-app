@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Web Development"],
+    "description": "A deep dive into the trends and future of popular JavaScript frameworks."
+  },
+  {
+    "title": "CSS Grids and Flexible Layouts",
+    "speakers": ["John Smith"],
+    "categories": ["CSS", "Frontend"],
+    "description": "Learn how to create complex and responsive layouts with CSS Grid and Flexbox."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Emily White", "David Green"],
+    "categories": ["Node.js", "Backend", "API"],
+    "description": "Best practices for building and scaling RESTful APIs using Node.js and Express."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Michael Black"],
+    "categories": ["Python", "Machine Learning"],
+    "description": "A beginner-friendly introduction to the world of machine learning with Python."
+  },
+  {
+    "title": "The Art of UI/UX Design",
+    "speakers": ["Sarah Jones"],
+    "categories": ["UI", "UX", "Design"],
+    "description": "Learn the principles of creating beautiful and user-friendly interfaces."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Chris Roberts"],
+    "categories": ["Cybersecurity", "Security"],
+    "description": "An overview of the current cybersecurity landscape and how to protect your applications."
+  }
+]
